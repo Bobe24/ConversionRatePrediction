@@ -1,3 +1,3 @@
 # ConversionRatePrediction
 
-Tencent Conversion Rate Prediction Compition
+Tencent Conversion Rate Prediction Competition
